@@ -1,0 +1,15 @@
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\bin\Debug\net6.0\EjercicioCondicionales.exe
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\bin\Debug\net6.0\EjercicioCondicionales.deps.json
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\bin\Debug\net6.0\EjercicioCondicionales.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\bin\Debug\net6.0\EjercicioCondicionales.dll
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\bin\Debug\net6.0\EjercicioCondicionales.pdb
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.dll
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\refint\EjercicioCondicionales.dll
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.pdb
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\EjercicioCondicionales.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\Personal\CoderHouse\EjercicioCondicionales\EjercicioCondicionales\obj\Debug\net6.0\ref\EjercicioCondicionales.dll
